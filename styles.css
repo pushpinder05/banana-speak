@@ -27,7 +27,7 @@ nav {
 textarea {
     font-family: 'Kalam', cursive;
     font-size: large;
-    
+    box-sizing: border-box;   
 }
 
 button {
